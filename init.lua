@@ -241,9 +241,9 @@ vim.keymap.set("n", "<leader>q", ":q<CR>")
 vim.keymap.set("n", "<leader>w", ":w<CR>")
 
 -- ====================================
--- Transparent background (optional)
+-- Transparent background
 -- ====================================
 
--- Uncomment if you want transparency
+-- tirar o comentario para ativar
 -- vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
 -- vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
