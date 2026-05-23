@@ -1,12 +1,12 @@
 # nvim
 
 A Neovim configuration built just for me to learn and explore the editor
-Uses the native `vim.pack` plugin manager of Neovim v0.12.2(no external plugin managers required.)
+Uses the native `vim.pack` plugin manager of Neovim v0.12.2 (no external plugin managers required.)
 
 ## Structure
 
-All configuration lives under `.config/nvim/` and is split into modules loaded via `require()` from `init.lua`.
-just to make things more easy to use
+All configuration lives under `.config/nvim/` and is split into modules loaded via `require()` from `init.lua`. 
+Just to make things more easy to use
 
 ## Requirements
 
