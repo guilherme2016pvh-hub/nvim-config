@@ -18,6 +18,6 @@ Just to make things more easy to use
 
 Clone directly into your Neovim config directory:
 
-    git clone https://github.com/your-username/nvim ~/.config/nvim
+    git clone https://github.com/XInel-s/nvim ~/.config/nvim
 
 Then open Neovim, dont worry the plugins installed will be automatically fetched via `vim.pack`
