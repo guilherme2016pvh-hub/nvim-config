@@ -13,3 +13,11 @@ Just to make things more easy to use
 - Neovim version > 0.12.2
 - A Nerd Font installed and set in your terminal (for the icons used)
 - `clangd` in PATH (for C/C++ LSP support)
+
+##Installation
+
+Clone directly into your Neovim config directory:
+
+    git clone https://github.com/XInel-s/nvim ~/.config/nvim
+
+Then open Neovim, dont worry the plugins installed will be automatically fetched via `vim.pack`
