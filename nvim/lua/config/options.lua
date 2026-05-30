@@ -1,13 +1,6 @@
--- ====================================
--- Leader
--- ====================================
 
 vim.g.mapleader = " "
 vim.g.maplocalleader = "\\"
-
--- ====================================
--- UI / Editor
--- ====================================
 
 vim.opt.number = true
 vim.opt.relativenumber = true
@@ -52,10 +45,6 @@ vim.opt.completeopt = { "menu", "menuone", "noselect" }
 
 vim.opt.wildmode = "longest:full,full"
 vim.opt.wildoptions = "pum"
-
--- ====================================
--- Listchars (indentação visual)
--- ====================================
 
 vim.opt.list = true
 vim.opt.listchars = {
